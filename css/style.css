@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    text-align: center;
+    background-color: rgb(134, 134, 134);
+    color: white;
+}
+
+header{
+    border-bottom:solid 4px black;
+    background-color: rgb(77, 0, 77);
+    height: 50px;
+    text-align: center;
+}
